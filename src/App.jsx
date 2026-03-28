@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_KEY = "YOUR_API_KEY_HERE"; // replace this with your key from openweathermap.org
+const API_KEY = "a4ee342e818aba0f5ceea074af4a40a1"; // replace this with your key from openweathermap.org
 
 const weatherIcons = {
   Clear: "☀️",
